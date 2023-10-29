@@ -1,4 +1,4 @@
-Github Pages: <a href="https://henry-md.github.io/Vincent-Dunn-Book/">https://henry-md.github.io/Vincent-Dunn-Book/</a>
+(Github Pages available)
 
 # Purpose
 - Turned Vincent Dunn's most recent book into electronic form, with interactive quizzes for each chapter and clickable images in the reading section.
